@@ -1,0 +1,24 @@
+.contents {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  position: relative;
+}
+
+.main {
+  margin-left: 200px;
+}
+
+.nav {
+  position: fixed;
+  top: 60px;
+  left: 0;
+}
+
+// .blank {
+//   flex: 2;
+// }
+
+// .aside {
+//   flex: 3;
+// }
